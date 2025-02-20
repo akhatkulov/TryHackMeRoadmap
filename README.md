@@ -497,7 +497,7 @@
 
 - [X] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
-- [ ] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
+- [X] [TryHackMe | Thompson](https://tryhackme.com/room/bsidesgtthompson)
 
 - [X] [TryHackMe | Simple CTF](https://tryhackme.com/room/easyctf)
 
@@ -511,9 +511,9 @@
 
 - [X] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-- [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
+- [X] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-- [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
+- [X] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
