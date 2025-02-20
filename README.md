@@ -91,7 +91,7 @@
 
 - [X] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [X] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [X] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
@@ -103,25 +103,25 @@
 
 ---
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [X] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
 
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [X] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
 
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [X] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
 ---
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [X] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
+- [X] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
-- [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
+- [X] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
