@@ -515,39 +515,39 @@
 
 - [X] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
-- [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
+- [X] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
-- [ ] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
+- [X] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 
-- [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
+- [X] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+- [X] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-- [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+- [X] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 
-- [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
+- [X] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [X] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
+- [X] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [X] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
-- [ ] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
+- [X] [TryHackMe | KoTH Food CTF](https://tryhackme.com/room/kothfoodctf)
 
-- [ ] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
+- [x] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
 - [ ] [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
-- [ ] [TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
+- [X] [TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
 
-- [ ] [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
+- [X] [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
 - [ ] [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
-- [ ] [TryHackMe | Source](https://tryhackme.com/room/source)
+- [X] [TryHackMe | Source](https://tryhackme.com/room/source)
 
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+- [X] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
 - [ ] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
