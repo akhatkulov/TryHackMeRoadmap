@@ -537,13 +537,13 @@
 
 - [x] [TryHackMe | Easy Peasy](https://tryhackme.com/room/easypeasyctf)
 
-- [ ] [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
+- [X] [TryHackMe | Tony the Tiger](https://tryhackme.com/room/tonythetiger)
 
 - [X] [TryHackMe | CTF collection Vol.1](https://tryhackme.com/room/ctfcollectionvol1)
 
 - [X] [TryHackMe | Smag Grotto](https://tryhackme.com/room/smaggrotto)
 
-- [ ] [TryHackMe | Couch](https://tryhackme.com/room/couch)
+- [X] [TryHackMe | Couch](https://tryhackme.com/room/couch)
 
 - [X] [TryHackMe | Source](https://tryhackme.com/room/source)
 
