@@ -549,9 +549,9 @@
 
 - [X] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-- [ ] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
+- [X] [TryHackMe | Gotta Catch&#39;em All!](https://tryhackme.com/room/pokemon)
 
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+- [X] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 - [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
