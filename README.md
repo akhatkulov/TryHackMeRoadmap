@@ -553,9 +553,9 @@
 
 - [X] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
-- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+- [X] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
-- [ ] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
+- [X] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
 - [ ] [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
