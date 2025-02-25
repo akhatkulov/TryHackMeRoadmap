@@ -559,13 +559,11 @@
 
 - [X] [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
-- [ ] [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
+- [X] [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
 
-- [ ] [TryHackMe | Startup](https://tryhackme.com/room/startup)
+- [X] [TryHackMe | Startup](https://tryhackme.com/room/startup)
 
-- [ ] [TryHackMe | Chill Hack](https://tryhackme.com/room/chillhack)
-
-- [ ] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
+- [X] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
 - [ ] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
 
