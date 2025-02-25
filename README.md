@@ -117,7 +117,7 @@
 
 - [X] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- [X] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
@@ -127,7 +127,7 @@
 
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
+- [X] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
@@ -557,7 +557,7 @@
 
 - [X] [TryHackMe | kiba](https://tryhackme.com/room/kiba)
 
-- [ ] [TryHackMe | Poster](https://tryhackme.com/room/poster)
+- [X] [TryHackMe | Poster](https://tryhackme.com/room/poster)
 
 - [ ] [TryHackMe | Chocolate Factory](https://tryhackme.com/room/chocolatefactory)
 
