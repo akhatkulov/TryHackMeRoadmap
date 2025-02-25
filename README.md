@@ -571,7 +571,7 @@
 
 - [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
-- [ ] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
+- [X] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
 - [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
 
@@ -589,7 +589,7 @@
 
 - [ ] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
 
-- [ ] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
+- [X] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
 ## Medium CTF
 
