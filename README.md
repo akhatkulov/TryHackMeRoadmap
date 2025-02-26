@@ -565,11 +565,11 @@
 
 - [X] [TryHackMe | ColddBox: Easy](https://tryhackme.com/room/colddboxeasy)
 
-- [ ] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
+- [X] [TryHackMe | GLITCH](https://tryhackme.com/room/glitch)
 
-- [ ] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
+- [X] [TryHackMe | All in One](https://tryhackme.com/room/allinonemj)
 
-- [ ] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
+- [X] [TryHackMe | Archangel](https://tryhackme.com/room/archangel)
 
 - [X] [TryHackMe | Cyborg](https://tryhackme.com/room/cyborgt8)
 
