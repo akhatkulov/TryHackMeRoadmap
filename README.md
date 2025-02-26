@@ -135,17 +135,17 @@
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [X] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [X] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [X] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [X] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
-- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [X] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [X] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
@@ -159,7 +159,7 @@
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [X] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -167,9 +167,9 @@
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
-- [ ] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
+- [X] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
-- [ ] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
+- [X] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
@@ -235,15 +235,15 @@
 
 ---
 
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [X] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 
-- [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
+- [X] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 
-- [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
+- [X] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 
-- [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
+- [X] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
 
-- [ ] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
+- [X] [TryHackMe | Brute It](https://tryhackme.com/room/bruteit)
 
 ## Steganography
 
@@ -577,7 +577,7 @@
 
 - [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
-- [ ] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
+- [X] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
 
 - [ ] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
