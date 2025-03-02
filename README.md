@@ -179,17 +179,17 @@
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [X] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
-- [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
+- [X] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
-- [ ] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
+- [X] [TryHackMe | Networking](https://tryhackme.com/room/bpnetworking)
 
-- [ ] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
+- [X] [TryHackMe | Intro to LAN](https://tryhackme.com/room/introtolan)
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
+- [X] [TryHackMe | HTTP in detail](https://tryhackme.com/room/httpindetail)
 
-- [ ] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
+- [X] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
 - [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
@@ -197,15 +197,15 @@
 
 ---
 
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [X] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
+- [X] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
-- [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
+- [X] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [X] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 
@@ -219,17 +219,17 @@
 
 - [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
-- [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
+- [X] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [X] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-- [ ] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- [X] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
-- [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+- [X] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Crypto & Hashes
 
@@ -255,9 +255,9 @@
 
 - [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [X] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
-- [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
+- [X] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
@@ -307,17 +307,17 @@
 
 - [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [X] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-- [ ] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
+- [X] [TryHackMe | Overpass](https://tryhackme.com/room/overpass)
 
-- [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
+- [X] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
 - [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-- [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
+- X] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
-- [ ] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
+- [X] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
 ## Android
 
@@ -407,15 +407,15 @@
 
 - [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 
-- [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
+- [X] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
-- [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
+- [X] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
-- [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
+- [X] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
 
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [X] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
-- [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
+- [X] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## Windows
 
@@ -427,13 +427,13 @@
 
 - [ ] [TryHackMe | Investigating Windows 3.x](https://tryhackme.com/room/investigatingwindows3)
 
-- [ ] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
+- [X] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
 
 - [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
 - [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
-- [ ] [TryHackMe | Blue](https://tryhackme.com/room/blue)
+- [X] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
 ## Active Directory
 
@@ -583,11 +583,11 @@
 
 - [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
-- [ ] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
+- [X] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 
 - [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
-- [ ] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
+- [X] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
 
 - [X] [TryHackMe | Mustacchio](https://tryhackme.com/room/mustacchio)
 
