@@ -119,7 +119,7 @@
 
 - [X] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
-- [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
+- [X] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
 - [X] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 
@@ -147,7 +147,7 @@
 
 - [X] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- [X] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
