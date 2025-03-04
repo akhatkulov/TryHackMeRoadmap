@@ -265,17 +265,17 @@
 
 ---
 
-- [ ] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
+- [X] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
 - [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
 
-- [ ] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
+- [X] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
-- [ ] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
+- [X] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
 
-- [ ] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
+- [X] [TryHackMe | OWASP Top 10](https://tryhackme.com/room/owasptop10)
 
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [X] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 - [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
 
@@ -289,7 +289,7 @@
 
 - [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
-- [ ] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
+- [X] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
 - [ ] [TryHackMe | Injection](https://tryhackme.com/room/injection)
 
@@ -301,11 +301,11 @@
 
 - [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
-- [ ] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
+- [X] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [X] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
-- [ ] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
+- [X] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
 - [X] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
@@ -315,7 +315,7 @@
 
 - [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-- X] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
+- [X] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
 - [X] [TryHackMe | Bolt](https://tryhackme.com/room/bolt)
 
@@ -391,17 +391,17 @@
 
 ---
 
-- [ ] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
+- [X] [TryHackMe | Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)
 
-- [ ] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
+- [X] [TryHackMe | Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)
 
-- [ ] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
+- [X] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 
 - [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 
 - [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
-- [ ] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
+- [X] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
 - [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
@@ -459,7 +459,7 @@
 
 - [ ] [TryHackMe | CCT2019](https://tryhackme.com/room/cct2019)
 
-- [ ] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
+- [X] [TryHackMe | Overpass 2 - Hacked](https://tryhackme.com/room/overpass2hacked)
 
 ## BufferOverflow
 
@@ -575,11 +575,11 @@
 
 - [ ] [TryHackMe | Lunizz CTF](https://tryhackme.com/room/lunizzctfnd)
 
-- [ ] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
+- [X] [TryHackMe | Badbyte](https://tryhackme.com/room/badbyte)
 
 - [X] [TryHackMe | Team](https://tryhackme.com/room/teamcw)
 
-- [ ] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
+- [X] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
 - [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
