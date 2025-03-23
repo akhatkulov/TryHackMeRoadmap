@@ -627,7 +627,7 @@
 
 - [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
-- [ ] [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
+- [X] [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
 
 - [ ] [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
 
