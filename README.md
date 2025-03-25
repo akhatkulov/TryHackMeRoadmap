@@ -595,11 +595,11 @@
 
 ---
 
-- [ ] [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
+- [X] [TryHackMe | Mr Robot CTF](https://tryhackme.com/room/mrrobot)
 
-- [ ] [TryHackMe | GoldenEye](https://tryhackme.com/room/goldeneye)
+- [X] [TryHackMe | GoldenEye](https://tryhackme.com/room/goldeneye)
 
-- [ ] [TryHackMe | StuxCTF](https://tryhackme.com/room/stuxctf)
+- [X] [TryHackMe | StuxCTF](https://tryhackme.com/room/stuxctf)
 
 - [ ] [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
 
