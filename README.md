@@ -601,7 +601,7 @@
 
 - [X] [TryHackMe | StuxCTF](https://tryhackme.com/room/stuxctf)
 
-- [ ] [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
+- [X] [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
 
 - [ ] [TryHackMe | HA Joker CTF](https://tryhackme.com/room/jokerctf)
 
