@@ -603,7 +603,7 @@
 
 - [X] [TryHackMe | Boiler CTF](https://tryhackme.com/room/boilerctf2)
 
-- [ ] [TryHackMe | HA Joker CTF](https://tryhackme.com/room/jokerctf)
+- [X] [TryHackMe | HA Joker CTF](https://tryhackme.com/room/jokerctf)
 
 - [ ] [TryHackMe | Biohazard](https://tryhackme.com/room/biohazard)
 
