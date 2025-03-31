@@ -605,9 +605,9 @@
 
 - [X] [TryHackMe | HA Joker CTF](https://tryhackme.com/room/jokerctf)
 
-- [ ] [TryHackMe | Biohazard](https://tryhackme.com/room/biohazard)
+- [X] [TryHackMe | Biohazard](https://tryhackme.com/room/biohazard)
 
-- [ ] [TryHackMe | Break it](https://tryhackme.com/room/breakit)
+- [X] [TryHackMe | Break it](https://tryhackme.com/room/breakit)
 
 - [ ] [TryHackMe | Willow](https://tryhackme.com/room/willow)
 
