@@ -609,7 +609,7 @@
 
 - [X] [TryHackMe | Break it](https://tryhackme.com/room/breakit)
 
-- [ ] [TryHackMe | Willow](https://tryhackme.com/room/willow)
+- [X] [TryHackMe | Willow](https://tryhackme.com/room/willow)
 
 - [ ] [TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
 
