@@ -611,13 +611,13 @@
 
 - [X] [TryHackMe | Willow](https://tryhackme.com/room/willow)
 
-- [ ] [TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
+- [X] [TryHackMe | The Marketplace](https://tryhackme.com/room/marketplace)
 
-- [ ] [TryHackMe | Nax](https://tryhackme.com/room/nax)
+- [X] [TryHackMe | Nax](https://tryhackme.com/room/nax)
 
-- [ ] [TryHackMe | Mindgames](https://tryhackme.com/room/mindgames)
+- [X] [TryHackMe | Mindgames](https://tryhackme.com/room/mindgames)
 
-- [ ] [TryHackMe | Anonymous](https://tryhackme.com/room/anonymous)
+- [X] [TryHackMe | Anonymous](https://tryhackme.com/room/anonymous)
 
 - [ ] [TryHackMe | Blog](https://tryhackme.com/room/blog)
 
