@@ -259,7 +259,7 @@
 
 - [X] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 
-- [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
+- [X] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
 ## Web
 
@@ -313,7 +313,7 @@
 
 - [X] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
+- [X] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
 - [X] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
 
@@ -625,7 +625,7 @@
 
 - [ ] [TryHackMe | 0day](https://tryhackme.com/room/0day)
 
-- [ ] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
+- [X] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
 - [X] [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
 
