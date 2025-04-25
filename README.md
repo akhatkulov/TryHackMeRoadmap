@@ -621,9 +621,9 @@
 
 - [ ] [TryHackMe | Blog](https://tryhackme.com/room/blog)
 
-- [ ] [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
+- [X] [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
 
-- [ ] [TryHackMe | 0day](https://tryhackme.com/room/0day)
+- [X] [TryHackMe | 0day](https://tryhackme.com/room/0day)
 
 - [X] [TryHackMe | Develpy](https://tryhackme.com/room/bsidesgtdevelpy)
 
@@ -633,7 +633,7 @@
 
 - [ ] [TryHackMe | Deja Vu](https://tryhackme.com/room/dejavu)
 
-- [ ] [TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
+- [X] [TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
 - [ ] [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
