@@ -629,15 +629,15 @@
 
 - [X] [TryHackMe | CTF collection Vol.2](https://tryhackme.com/room/ctfcollectionvol2)
 
-- [ ] [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
+- [X] [TryHackMe | CMesS](https://tryhackme.com/room/cmess)
 
-- [ ] [TryHackMe | Deja Vu](https://tryhackme.com/room/dejavu)
+- [X] [TryHackMe | Deja Vu](https://tryhackme.com/room/dejavu)
 
 - [X] [TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
 - [ ] [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
-- [ ] [TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
+- [X] [TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
 
 - [ ] [TryHackMe | KoTH Hackers](https://tryhackme.com/room/kothhackers)
 
