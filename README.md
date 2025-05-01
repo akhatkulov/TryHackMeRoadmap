@@ -33,16 +33,16 @@
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |           **10**          |
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
-| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
-| **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
-| **[Scripting](#scripting)**                       |      **8**      |                           |
-| **[Networking](#networking)**                     |      **7**      |                           |
-| **[Tooling](#tooling)**                           |     **17**      |                           |
-| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |                           |
-| **[Steganography](#steganography)**               |      **6**      |                           |
+| **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
+| **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **9**           |
+| **[Reconnaissance](#recon)**                      |     **10**      |           **8**           |
+| **[Scripting](#scripting)**                       |      **8**      |           **3**           |
+| **[Networking](#networking)**                     |      **7**      |           **6**           |
+| **[Tooling](#tooling)**                           |     **17**      |           **8**           |
+| **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **5**           |
+| **[Steganography](#steganography)**               |      **6**      |           **3--X**        |
 | **[Web](#web)**                                   |     **27**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
@@ -54,7 +54,7 @@
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |                           |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |          **55**           |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
