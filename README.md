@@ -397,9 +397,9 @@
 
 - [X] [TryHackMe | Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)
 
-- [ ] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
+- [X] [TryHackMe | Windows PrivEsc](https://tryhackme.com/room/windows10privesc)
 
-- [ ] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
+- [X] [TryHackMe | Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)
 
 - [X] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
