@@ -431,7 +431,7 @@
 
 - [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
-- [ ] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
+- [X] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
 - [X] [TryHackMe | Blue](https://tryhackme.com/room/blue)
 
