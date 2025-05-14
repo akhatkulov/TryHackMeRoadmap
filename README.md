@@ -153,7 +153,7 @@
 
 - [X] [TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
 
-- [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [X] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 
