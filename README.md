@@ -161,9 +161,9 @@
 
 - [X] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
-- [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
+- [X] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
-- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
+- [X] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
 - [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
@@ -173,7 +173,7 @@
 
 - [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Why Subscribe](https://tryhackme.com/room/yara)
+- [ ] [TryHackMe | Yara](https://tryhackme.com/room/yara)
 
 ## Networking
 
