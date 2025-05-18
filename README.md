@@ -165,7 +165,7 @@
 
 - [X] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 
-- [ ] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
+- [X] [TryHackMe | Peak Hill](https://tryhackme.com/room/peakhill)
 
 - [X] [TryHackMe | JavaScript Basics](https://tryhackme.com/room/javascriptbasics)
 
