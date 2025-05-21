@@ -171,7 +171,7 @@
 
 - [X] [TryHackMe | Bash Scripting](https://tryhackme.com/room/bashscripting)
 
-- [ ] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
+- [X] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
 - [ ] [TryHackMe | Yara](https://tryhackme.com/room/yara)
 
