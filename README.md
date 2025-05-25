@@ -38,7 +38,7 @@
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |           **3**           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **9**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **10**          |
-| **[Scripting](#scripting)**                       |      **8**      |           **3**           |
+| **[Scripting](#scripting)**                       |      **8**      |           **8**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
 | **[Tooling](#tooling)**                           |     **17**      |           **8**           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **5**           |
@@ -173,7 +173,7 @@
 
 - [X] [TryHackMe | Learn Rust](https://tryhackme.com/room/rust)
 
-- [ ] [TryHackMe | Yara](https://tryhackme.com/room/yara)
+- [X] [TryHackMe | Yara](https://tryhackme.com/room/yara)
 
 ## Networking
 
