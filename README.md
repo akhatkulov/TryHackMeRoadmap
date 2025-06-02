@@ -40,7 +40,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |           **10**          |
 | **[Scripting](#scripting)**                       |      **8**      |           **8**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
-| **[Tooling](#tooling)**                           |     **17**      |           **9**           |
+| **[Tooling](#tooling)**                           |     **16**      |           **9**           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **5**           |
 | **[Steganography](#steganography)**               |      **6**      |           **3--X**        |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -207,11 +207,9 @@
 
 - [X] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
-- [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
-
 - [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)
 
-- [ ] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
+- [X] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 
 - [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
