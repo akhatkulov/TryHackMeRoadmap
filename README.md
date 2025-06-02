@@ -211,7 +211,7 @@
 
 - [X] [TryHackMe | Introduction to OWASP ZAP](https://tryhackme.com/room/learnowaspzap)
 
-- [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
+- [X] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
 - [X] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
