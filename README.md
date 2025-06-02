@@ -40,7 +40,7 @@
 | **[Reconnaissance](#recon)**                      |     **10**      |           **10**          |
 | **[Scripting](#scripting)**                       |      **8**      |           **8**           |
 | **[Networking](#networking)**                     |      **7**      |           **6**           |
-| **[Tooling](#tooling)**                           |     **17**      |           **8**           |
+| **[Tooling](#tooling)**                           |     **17**      |           **9**           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **5**           |
 | **[Steganography](#steganography)**               |      **6**      |           **3--X**        |
 | **[Web](#web)**                                   |     **27**      |                           |
@@ -215,9 +215,9 @@
 
 - [ ] [TryHackMe | Phishing: HiddenEye](https://tryhackme.com/room/phishinghiddeneye)
 
-- [ ] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
+- [X] [TryHackMe | RustScan](https://tryhackme.com/room/rustscan)
 
-- [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
+- [X] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
 - [X] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
@@ -225,7 +225,7 @@
 
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
-- [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
+- [X] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
 - [X] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
