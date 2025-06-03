@@ -49,7 +49,7 @@
 | **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
 | **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
-| **[Privilege Escalation](#privesc)**              |     **13**      |                           |
+| **[Privilege Escalation](#privesc)**              |     **13**      |           *13*            |
 | **[Windows](#windows)**                           |      **7**      |                           |
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
@@ -401,9 +401,9 @@
 
 - [X] [TryHackMe | Linux Agency](https://tryhackme.com/room/linuxagency)
 
-- [ ] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
+- [X] [TryHackMe | Sudo Security Bypass](https://tryhackme.com/room/sudovulnsbypass)
 
-- [ ] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
+- [X] [TryHackMe | Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 
 - [X] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 
