@@ -265,8 +265,6 @@
 
 - [X] [TryHackMe | HTTP in detail](https://tryhackme.com/room/webfundamentals)
 
-- [ ] [TryHackMe | WebAppSec 101](https://tryhackme.com/room/webappsec101)
-
 - [X] [TryHackMe | Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)
 
 - [X] [TryHackMe | Walking An Application](https://tryhackme.com/room/walkinganapplication)
@@ -297,7 +295,7 @@
 
 - [ ] [TryHackMe | SQL Injection Lab](https://tryhackme.com/room/sqlilab)
 
-- [ ] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
+- [X] [TryHackMe | SSTI](https://tryhackme.com/room/learnssti)
 
 - [X] [TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
