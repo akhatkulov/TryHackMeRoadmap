@@ -467,7 +467,7 @@
 
 - [ ] [TryHackMe | Chronicle](https://tryhackme.com/room/chronicle)
 
-- [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+- [X] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
 
