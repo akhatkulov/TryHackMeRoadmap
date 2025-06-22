@@ -221,7 +221,7 @@
 
 - [X] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
-- [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
+- [X] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [X] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
