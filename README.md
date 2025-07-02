@@ -46,7 +46,7 @@
 | **[Web](#web)**                                   |     **27**      |                           |
 | **[Android](#android)**                           |      **1**      |                           |
 | **[Forensics](#forensics)**                       |      **5**      |                           |
-| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |                           |
+| **[Wifi Hacking](#wi-fi-hacking)**                |      **1**      |           *1*             |
 | **[Reverse Engineering](#reverse-engineering)**   |     **11**      |                           |
 | **[Malware Analysis](#malware-analysis)**         |      **7**      |                           |
 | **[Privilege Escalation](#privesc)**              |     **13**      |           *13*            |
@@ -339,7 +339,7 @@
 
 ---
 
-- [ ] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
+- [X] [TryHackMe | Wifi Hacking 101](https://tryhackme.com/room/wifihacking101)
 
 ## Reverse Engineering
 
