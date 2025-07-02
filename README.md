@@ -39,7 +39,7 @@
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |           **9**           |
 | **[Reconnaissance](#recon)**                      |     **10**      |           **10**          |
 | **[Scripting](#scripting)**                       |      **8**      |           **8**           |
-| **[Networking](#networking)**                     |      **7**      |           **6**           |
+| **[Networking](#networking)**                     |      **7**      |           **7**           |
 | **[Tooling](#tooling)**                           |     **16**      |           **9**           |
 | **[Crypto & Hashes](#crypto--hashes)**            |      **5**      |           **5**           |
 | **[Steganography](#steganography)**               |      **6**      |           **3--X**        |
@@ -191,7 +191,7 @@
 
 - [X] [TryHackMe | DNS in detail](https://tryhackme.com/room/dnsindetail)
 
-- [ ] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
+- [X] [TryHackMe | Dumping Router Firmware](https://tryhackme.com/room/rfirmware)
 
 ## Tooling
 
