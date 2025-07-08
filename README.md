@@ -461,7 +461,7 @@
 
 ---
 
-- [ ] [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
+- [X] [TryHackMe | Buffer Overflow Prep](https://tryhackme.com/room/bufferoverflowprep)
 
 - [ ] [TryHackMe | Gatekeeper](https://tryhackme.com/room/gatekeeper)
 
