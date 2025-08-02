@@ -345,7 +345,7 @@
 
 ---
 
-- [ ] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
+- [X] [TryHackMe | Windows x64 Assembly](https://tryhackme.com/room/win64assembly)
 
 - [x] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
@@ -623,13 +623,13 @@
 
 - [X] [TryHackMe | hackerNote](https://tryhackme.com/room/hackernote)
 
-- [ ] [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
+- [X] [TryHackMe | dogcat](https://tryhackme.com/room/dogcat)
 
 - [X] [TryHackMe | ConvertMyVideo](https://tryhackme.com/room/convertmyvideo)
 
 - [ ] [TryHackMe | KoTH Hackers](https://tryhackme.com/room/kothhackers)
 
-- [ ] [TryHackMe | Revenge](https://tryhackme.com/room/revenge)
+- [X] [TryHackMe | Revenge](https://tryhackme.com/room/revenge)
 
 - [ ] [TryHackMe | harder](https://tryhackme.com/room/harder)
 
