@@ -607,7 +607,7 @@
 
 - [X] [TryHackMe | Anonymous](https://tryhackme.com/room/anonymous)
 
-- [ ] [TryHackMe | Blog](https://tryhackme.com/room/blog)
+- [X] [TryHackMe | Blog](https://tryhackme.com/room/blog)
 
 - [X] [TryHackMe | Wonderland](https://tryhackme.com/room/wonderland)
 
