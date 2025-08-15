@@ -54,7 +54,7 @@
 | **[Active Directory](#active-directory)**         |      **5**      |                           |
 | **[PCAP Analysis](#pcap-analysis)**               |      **4**      |                           |
 | **[Buffer Overflow](#bufferoverflow)**            |      **4**      |                           |
-| **[Easy CTF](#easy-ctf)**                         |     **58**      |          **56**           |
+| **[Easy CTF](#easy-ctf)**                         |     **58**      |          **58**           |
 | **[Medium CTF](#medium-ctf)**                     |     **73**      |                           |
 | **[Hard CTF](#hard-ctf)**                         |     **38**      |                           |
 | **[Misc](#misc)**                                 |     **35**      |                           |
@@ -569,11 +569,11 @@
 
 - [X] [TryHackMe | VulnNet: Node](https://tryhackme.com/room/vulnnetnode)
 
-- [ ] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
+- [X] [TryHackMe | VulnNet: Internal](https://tryhackme.com/room/vulnnetinternal)
 
 - [X] [TryHackMe | Atlas](https://tryhackme.com/room/atlas)
 
-- [ ] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
+- [X] [TryHackMe | VulnNet: Roasted](https://tryhackme.com/room/vulnnetroasted)
 
 - [X] [TryHackMe | Cat Pictures](https://tryhackme.com/room/catpictures)
 
