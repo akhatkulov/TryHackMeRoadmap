@@ -639,7 +639,7 @@
 
 - [X] [TryHackMe | Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
 
-- [ ] [TryHackMe | The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
+- [X] [TryHackMe | The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
 
 - [ ] [TryHackMe | Looking Glass](https://tryhackme.com/room/lookingglass)
 
