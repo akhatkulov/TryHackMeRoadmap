@@ -641,11 +641,11 @@
 
 - [X] [TryHackMe | The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
 
-- [ ] [TryHackMe | Looking Glass](https://tryhackme.com/room/lookingglass)
+- [X] [TryHackMe | Looking Glass](https://tryhackme.com/room/lookingglass)
 
 - [ ] [TryHackMe | Recovery](https://tryhackme.com/room/recovery)
 
-- [ ] [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
+- [X] [TryHackMe | Relevant](https://tryhackme.com/room/relevant)
 
 - [ ] [TryHackMe | Ghizer](https://tryhackme.com/room/ghizerctf)
 
