@@ -631,11 +631,11 @@
 
 - [X] [TryHackMe | Revenge](https://tryhackme.com/room/revenge)
 
-- [ ] [TryHackMe | harder](https://tryhackme.com/room/harder)
+- [X] [TryHackMe | harder](https://tryhackme.com/room/harder)
 
-- [ ] [TryHackMe | HaskHell](https://tryhackme.com/room/haskhell)
+- [X] [TryHackMe | HaskHell](https://tryhackme.com/room/haskhell)
 
-- [ ] [TryHackMe | Undiscovered](https://tryhackme.com/room/undiscoveredup)
+- [X] [TryHackMe | Undiscovered](https://tryhackme.com/room/undiscoveredup)
 
 - [ ] [TryHackMe | Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
 
