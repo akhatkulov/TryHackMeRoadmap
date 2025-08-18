@@ -637,7 +637,7 @@
 
 - [X] [TryHackMe | Undiscovered](https://tryhackme.com/room/undiscoveredup)
 
-- [ ] [TryHackMe | Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
+- [X] [TryHackMe | Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
 
 - [ ] [TryHackMe | The Impossible Challenge](https://tryhackme.com/room/theimpossiblechallenge)
 
