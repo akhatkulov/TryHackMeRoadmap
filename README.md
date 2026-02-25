@@ -417,7 +417,7 @@
 
 - [X] [TryHackMe | Blueprint](https://tryhackme.com/room/blueprint)
 
-- [ ] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
+- [X] [TryHackMe | VulnNet: Active](https://tryhackme.com/room/vulnnetactive)
 
 - [X] [TryHackMe | Anthem](https://tryhackme.com/room/anthem)
 
@@ -427,13 +427,11 @@
 
 ---
 
-- [ ] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
+- [X] [TryHackMe | Attacktive Directory](https://tryhackme.com/room/attacktivedirectory)
 
-- [ ] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
+- [X] [TryHackMe | Post-Exploitation Basics](https://tryhackme.com/room/postexploit)
 
-- [ ] [TryHackMe | USTOUN](https://tryhackme.com/room/ustoun)
-
-- [ ] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
+- [X] [TryHackMe | Enterprise](https://tryhackme.com/room/enterprise)
 
 - [ ] [TryHackMe | RazorBlack](https://tryhackme.com/room/raz0rblack)
 
