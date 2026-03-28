@@ -273,17 +273,15 @@
 
 - [X] [TryHackMe | OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop)
 
-- [ ] [TryHackMe | Web Scanning](https://tryhackme.com/room/rpwebscanning)
+- [X] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
 
-- [ ] [TryHackMe | OWASP Mutillidae II](https://tryhackme.com/room/owaspmutillidae)
+- [X] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
 
-- [ ] [TryHackMe | WebGOAT](https://tryhackme.com/room/webgoat)
+- [X] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
 
-- [ ] [TryHackMe | DVWA](https://tryhackme.com/room/dvwa)
+- [X] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
 
-- [ ] [TryHackMe | VulnNet](https://tryhackme.com/room/vulnnet1)
-
-- [ ] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
+- [X] [TryHackMe | Juicy Details](https://tryhackme.com/room/juicydetails)
 
 - [X] [TryHackMe | Vulnversity](https://tryhackme.com/room/vulnversity)
 
