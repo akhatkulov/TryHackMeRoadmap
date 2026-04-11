@@ -247,11 +247,7 @@
 
 ---
 
-- [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-
 - [X] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
-
-- [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
 
 - [X] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 
