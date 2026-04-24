@@ -337,7 +337,7 @@
 
 - [x] [TryHackMe | Reversing ELF](https://tryhackme.com/room/reverselfiles)
 
-- [ ] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
+- [X] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
 - [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
