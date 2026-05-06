@@ -339,9 +339,9 @@
 
 - [X] [TryHackMe | JVM Reverse Engineering](https://tryhackme.com/room/jvmreverseengineering)
 
-- [ ] [TryHackMe | Aster](https://tryhackme.com/room/aster)
+- [X] [TryHackMe | Aster](https://tryhackme.com/room/aster)
 
-- [ ] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
+- [X] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 
 - [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
 
