@@ -343,7 +343,7 @@
 
 - [X] [TryHackMe | Classic Passwd](https://tryhackme.com/room/classicpasswd)
 
-- [ ] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
+- [X] [TryHackMe | REloaded](https://tryhackme.com/room/reloaded)
 
 ## Malware Analysis
 
